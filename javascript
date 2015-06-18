@@ -1,1 +1,1 @@
--  [JavaScript 的性能优化：加载和执行](http://www.ibm.com/developerworks/cn/web/1308_caiys_jsload/index.html)
+- [MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
